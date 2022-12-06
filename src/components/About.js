@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 const About = () => {
     return (
         <div>
-            <h4>Verrsion 1.0.0</h4>
+            <h4>Verrsion 1.0.0.1</h4>
             <Link to='/'>Go Back</Link>
         </div>
     )
